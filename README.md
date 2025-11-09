@@ -1,1 +1,2 @@
-# test_3
+# test_3_glasba
+Inicializacijski README – prvi commit.
